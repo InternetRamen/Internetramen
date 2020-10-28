@@ -8,6 +8,7 @@ My name is Jaden. I am a aspiring student developer attempting to get better.
 
 ## 🌱 I’m currently learning ...
  - Mongoose (MongoDB)
+ - TypeScript
  - Electron
  - Java
  - General Information about tech and protocols

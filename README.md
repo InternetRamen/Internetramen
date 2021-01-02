@@ -1,23 +1,20 @@
-![Intro Banner](./githubbanner.png)
+![Intro Banner](https://i.ibb.co/pWXkWyv/githubbanner.png)
 # Hello there!
 My name is Jaden. I am a aspiring student developer attempting to get better.
 
 ## 🔭 I’m currently working on ...
- - Hacktoberfest
- - GitHub Profile Page
+ - Portfolio Website
 
 ## 🌱 I’m currently learning ...
- - Mongoose (MongoDB)
- - TypeScript
- - Electron
  - Java
+ - Express
  - General Information about tech and protocols
 
 ## 👯 I’m looking to collaborate on ...
- - Discord Bots
+ - N/A
 
  ## 📫 How to reach me: ...
- [<img alt="https://discord.gg/GsNSAHA" src="./discordlogo.png" width="50px">](https://discord.gg/GsNSAHA)[<img alt="jadenhou19@gmail.com" src="./mailing.png" width="50px">](mailto:jadenhou19@gmail.com)
+ [<img alt="https://discord.gg/GsNSAHA" src="https://i.ibb.co/L9Z9Ffz/discordlogo.webp" width="50px">](https://discord.gg/GsNSAHA)[<img alt="jadenhou19@gmail.com" src="https://i.ibb.co/TwG9DQy/mailing.png" width="50px">](mailto:jadenhou19@gmail.com)
 
 ## 📈 Stats ...
 [![InternetRamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![InternetRamen's Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![DominationBot](https://github-readme-stats.vercel.app/api/pin/?username=InternetRamen&repo=DominationBot&theme=tokyonight)](https://github.com/InternetRamen/DominationBot)

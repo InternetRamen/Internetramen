@@ -6,10 +6,8 @@ My name is Jaden. I am a aspiring student developer attempting to get better.
  - Portfolio Website
 
 ## 🌱 I’m currently learning ...
- - Java
  - Express
- - General Information about tech and protocols
-
+ - CSS
 ## 👯 I’m looking to collaborate on ...
  - N/A
 

@@ -12,7 +12,7 @@ My name is Jaden. I am a aspiring student developer attempting to get better.
  - N/A
 
  ## 📫 How to reach me: ...
- [<img alt="https://discord.gg/GsNSAHA" src="https://raw.githubusercontent.com/InternetRamen/Internetramen/master/discordlogo.png" width="50px">](https://discord.gg/GsNSAHA)[<img alt="jadenhou19@gmail.com" src="https://raw.githubusercontent.com/InternetRamen/Internetramen/master/mailing.png" width="50px">](mailto:jadenhou19@gmail.com)
+[<img alt="jadenhou19@gmail.com" src="https://raw.githubusercontent.com/InternetRamen/Internetramen/master/mailing.png" width="50px">](mailto:jadenhou19@gmail.com)
 
 ## 📈 Stats ...
 [![InternetRamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![InternetRamen's Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![DominationBot](https://github-readme-stats.vercel.app/api/pin/?username=InternetRamen&repo=DominationBot&theme=tokyonight)](https://github.com/InternetRamen/DominationBot)

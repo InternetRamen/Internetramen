@@ -3,11 +3,11 @@
 My name is Jaden. I am a aspiring student developer attempting to get better.
 
 ## 🔭 I’m currently working on ...
- - Portfolio Website
+ - Mini Projects
+ - AP CSP
 
 ## 🌱 I’m currently learning ...
- - Express
- - CSS
+ - SCSS
 ## 👯 I’m looking to collaborate on ...
  - N/A
 

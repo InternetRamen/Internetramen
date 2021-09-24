@@ -8,6 +8,7 @@ My name is Jaden. I am a aspiring student developer attempting to get better.
 
 ## 🌱 I’m currently learning ...
  - SCSS
+ - Python
 ## 👯 I’m looking to collaborate on ...
  - N/A
 

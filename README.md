@@ -3,8 +3,8 @@
 My name is Jaden. I am a aspiring student developer attempting to get better.
 
 ## 🔭 I’m currently working on ...
- - Mini Projects
  - AP CSP
+ - Portfolio
 
 ## 🌱 I’m currently learning ...
  - SCSS

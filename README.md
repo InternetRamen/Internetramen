@@ -7,10 +7,13 @@ My name is Jaden. I am a aspiring student developer attempting to get better.
  - Portfolio
 
 ## 🌱 I’m currently learning ...
- - SCSS
+ - Firebase
+ - React & NextJS
+ - Java
+ - GraphQL
  - Python
 ## 👯 I’m looking to collaborate on ...
- - N/A
+ - hmu if u have a idea
 
  ## 📫 How to reach me: ...
 [<img alt="jadenhou19@gmail.com" src="https://raw.githubusercontent.com/InternetRamen/Internetramen/master/mailing.png" width="50px">](mailto:jadenhou19@gmail.com)

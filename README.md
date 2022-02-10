@@ -12,6 +12,11 @@ My name is Jaden. I am a aspiring student developer attempting to get better.
  - Java
  - GraphQL
  - Python
+## 🌱 I want to learn about...
+ - CSS Grid 
+ - Bootstrap
+ - VBA
+ - Data structures and algo
 ## 👯 I’m looking to collaborate on ...
  - hmu if u have a idea
 

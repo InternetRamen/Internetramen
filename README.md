@@ -3,28 +3,29 @@
 My name is Jaden. I am a aspiring student developer attempting to get better.
 
 ## 🔭 I’m currently working on ...
- - AP CSP
+ - Poolesville Hacks
+ - Roomy
  - Portfolio
 
 ## 🌱 I’m currently learning ...
+ - MUI, Design & NextJS
  - Firebase
- - React & NextJS
  - Java
  - GraphQL
- - Python
 ## 🌱 I want to learn about...
- - CSS Grid 
- - Bootstrap
+ - Firebase Auth
+ - How to talk to people
  - VBA
  - Data structures and algo
 ## 👯 I’m looking to collaborate on ...
+ - Poolesvile Hacks
  - hmu if u have a idea
 
  ## 📫 How to reach me: ...
 [<img alt="jadenhou19@gmail.com" src="https://raw.githubusercontent.com/InternetRamen/Internetramen/master/mailing.png" width="50px">](mailto:jadenhou19@gmail.com)
 
 ## 📈 Stats ...
-[![InternetRamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![InternetRamen's Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![DominationBot](https://github-readme-stats.vercel.app/api/pin/?username=InternetRamen&repo=DominationBot&theme=tokyonight)](https://github.com/InternetRamen/DominationBot)
+[![InternetRamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![InternetRamen's Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetRamen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![poolesville_hack](https://github-readme-stats.vercel.app/api/pin/?username=InternetRamen&repo=main&theme=tokyonight)](https://github.com/InternetRamen/main)
 
 ## 💻 Tech & Tools ...
 ![OS](https://img.shields.io/badge/OS-Windows-lightblue) ![IDE](https://img.shields.io/badge/IDE-VS%20Code-lightblue) ![GIT](https://img.shields.io/badge/GIT-GitHub-lightblue) ![Lang](https://img.shields.io/badge/Lang-JavaScript-lightblue)

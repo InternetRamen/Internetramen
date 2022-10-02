@@ -30,5 +30,7 @@ My name is Jaden. I am a aspiring student developer attempting to get better.
 ## 💻 Tech & Tools ...
 ![OS](https://img.shields.io/badge/OS-Windows-lightblue) ![IDE](https://img.shields.io/badge/IDE-VS%20Code-lightblue) ![GIT](https://img.shields.io/badge/GIT-GitHub-lightblue) ![Lang](https://img.shields.io/badge/Lang-JavaScript-lightblue)
 
+[![@internetramen's Holopin board](https://holopin.io/api/user/board?user=internetramen)](https://holopin.io/@internetramen)
+
 ---
 Icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>

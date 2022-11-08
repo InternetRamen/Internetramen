@@ -1,22 +1,17 @@
 ![Intro Banner](https://raw.githubusercontent.com/InternetRamen/Internetramen/master/githubbanner.png)
 # Hello there!
-My name is Jaden. I am a aspiring student developer attempting to get better.
+My name is Jaden. I am a aspiring student developer.
 
 ## 🔭 I’m currently working on ...
+ - Hack Club Bank
  - Poolesville Hacks
- - Roomy
- - Portfolio
 
 ## 🌱 I’m currently learning ...
- - MUI, Design & NextJS
- - Firebase
- - Java
- - GraphQL
+ - Ruby on Rails
+
 ## 🌱 I want to learn about...
- - Firebase Auth
- - How to talk to people
- - VBA
- - Data structures and algo
+ - Storing images in dtabase buckets
+
 ## 👯 I’m looking to collaborate on ...
  - Poolesvile Hacks
  - hmu if u have a idea

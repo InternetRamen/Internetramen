@@ -4,16 +4,16 @@ My name is Jaden. I am a aspiring student developer.
 
 ## 🔭 I’m currently working on ...
  - Hack Club Bank
- - Poolesville Hacks
+ - CrabHacks
 
 ## 🌱 I’m currently learning ...
- - Ruby on Rails
+ - Quantum Computing
 
 ## 🌱 I want to learn about...
  - Storing images in dtabase buckets
 
 ## 👯 I’m looking to collaborate on ...
- - Poolesvile Hacks
+ - CrabHacks
  - hmu if u have a idea
 
  ## 📫 How to reach me: ...
